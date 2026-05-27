@@ -1,0 +1,8 @@
+{
+  "default_new_customers_per_run": 100,
+  "default_accounts_per_customer": 2,
+  "default_transactions_per_account": 25,
+  "closed_account_percentage": 0.02,
+  "simulation_start_date": "2026-01-01",
+  "simulation_end_date": "2026-12-31"
+}

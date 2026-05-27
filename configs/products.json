@@ -1,0 +1,30 @@
+[
+  {
+    "product_code": "CHK_BASIC",
+    "product_name": "Basic Checking Account"
+  },
+  {
+    "product_code": "CHK_PREM",
+    "product_name": "Premium Checking Account"
+  },
+  {
+    "product_code": "SVG_STANDARD",
+    "product_name": "Savings Account"
+  },
+  {
+    "product_code": "CC_GOLD",
+    "product_name": "Gold Credit Card"
+  },
+  {
+    "product_code": "CC_PLAT",
+    "product_name": "Platinum Credit Card"
+  },
+  {
+    "product_code": "LOAN_AUTO",
+    "product_name": "Auto Loan"
+  },
+  {
+    "product_code": "LOAN_HOME",
+    "product_name": "Mortgage Loan"
+  }
+]

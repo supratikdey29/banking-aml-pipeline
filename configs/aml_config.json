@@ -1,0 +1,7 @@
+{
+  "structuring_probability": 0.02,
+  "high_velocity_probability": 0.01,
+  "money_mule_probability": 0.01,
+  "large_cash_probability": 0.015,
+  "international_transfer_probability": 0.02
+}
